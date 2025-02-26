@@ -4,7 +4,7 @@
 
 ## 著作権表示および引用元
 
-このリポジトリの一部のコードは、[GitHubリポジトリ](https://github.com/Megvii-BaseDetection/YOLOX)から引用しており、また、[zennの記事](https://zenn.dev/opamp/articles/d3878b189ea256)を参考に開発されています。  
+このリポジトリのコードは、[GitHubリポジトリ](https://github.com/Megvii-BaseDetection/YOLOX)から引用したものに変更を加えたものです。また、[zennの記事](https://zenn.dev/opamp/articles/d3878b189ea256)を参考に開発されています。  
 引用元の著作権およびライセンス情報は各所有者に帰属します。  
 このリポジトリは Apache License 2.0 の条件の下で配布されています。
 
