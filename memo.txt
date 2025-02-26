@@ -1,0 +1,12 @@
+
+# YOLOX for Jetson
+JETSON ORIN NANO での開発用リポジトリ
+
+# 実行
+```bash
+$ python tools/demo.py image -f yolox_s.py --device gpu --fp16 --path datasets/test.png -c ./YOLOX_outputs/yolox_s/best_ckpt.pth --save_result
+```
+
+```bash
+python3 tools/demo.py webcam -f yolox_s.py --device gpu --fp16 -c YOLOX_outputs/yolox_s/best_ckpt.pth
+```

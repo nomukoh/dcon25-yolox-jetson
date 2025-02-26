@@ -1,0 +1,4 @@
+# LFを維持
+*.ninja_log text eol=lf
+
+.gitignore -text
